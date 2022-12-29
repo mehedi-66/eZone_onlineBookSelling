@@ -1,0 +1,17 @@
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.DataAccess.deps.json
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.DataAccess.dll
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.DataAccess.pdb
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.Models.dll
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.Models.pdb
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.csproj.AssemblyReference.cache
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.AssemblyInfoInputs.cache
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.AssemblyInfo.cs
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.csproj.CoreCompileInputs.cache
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.csproj.CopyComplete
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.dll
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\refint\eZone.DataAccess.dll
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.pdb
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\ref\eZone.DataAccess.dll
+H:\ASP_Project\eZone\eZone.DataAccess\bin\Debug\net6.0\eZone.DataAccess.runtimeconfig.json
+H:\ASP_Project\eZone\eZone.DataAccess\obj\Debug\net6.0\eZone.DataAccess.genruntimeconfig.cache

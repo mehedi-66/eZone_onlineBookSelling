@@ -1,0 +1,12 @@
+H:\ASP_Project\eZone\eZone.Utility\bin\Debug\net6.0\eZone.Utility.deps.json
+H:\ASP_Project\eZone\eZone.Utility\bin\Debug\net6.0\eZone.Utility.dll
+H:\ASP_Project\eZone\eZone.Utility\bin\Debug\net6.0\eZone.Utility.pdb
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.csproj.AssemblyReference.cache
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.GeneratedMSBuildEditorConfig.editorconfig
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.AssemblyInfoInputs.cache
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.AssemblyInfo.cs
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.csproj.CoreCompileInputs.cache
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.dll
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\refint\eZone.Utility.dll
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\eZone.Utility.pdb
+H:\ASP_Project\eZone\eZone.Utility\obj\Debug\net6.0\ref\eZone.Utility.dll

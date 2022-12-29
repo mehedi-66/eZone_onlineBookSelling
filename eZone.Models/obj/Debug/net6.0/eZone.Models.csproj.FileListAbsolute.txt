@@ -1,0 +1,12 @@
+H:\ASP_Project\eZone\eZone.Models\bin\Debug\net6.0\eZone.Models.deps.json
+H:\ASP_Project\eZone\eZone.Models\bin\Debug\net6.0\eZone.Models.dll
+H:\ASP_Project\eZone\eZone.Models\bin\Debug\net6.0\eZone.Models.pdb
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.csproj.AssemblyReference.cache
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.AssemblyInfoInputs.cache
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.AssemblyInfo.cs
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.csproj.CoreCompileInputs.cache
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.dll
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\refint\eZone.Models.dll
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\eZone.Models.pdb
+H:\ASP_Project\eZone\eZone.Models\obj\Debug\net6.0\ref\eZone.Models.dll
