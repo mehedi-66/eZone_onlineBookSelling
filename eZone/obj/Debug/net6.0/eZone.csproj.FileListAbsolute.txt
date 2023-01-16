@@ -288,3 +288,4 @@ H:\ASP_Project\eZone\eZone\bin\Debug\net6.0\eZone.Models.pdb
 H:\ASP_Project\eZone\eZone\obj\Debug\net6.0\eZone.MvcApplicationPartsAssemblyInfo.cs
 H:\ASP_Project\eZone\eZone\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 H:\ASP_Project\eZone\eZone\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\ASP_Project\eZone\eZone\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
